@@ -1,0 +1,9 @@
+h1{
+    text-decoration: blue wavy underline;  
+}
+p{
+    text-decoration: red double  overline; 
+}
+h2{
+    text-decoration: green wavy line-through;
+}
