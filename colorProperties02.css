@@ -1,0 +1,15 @@
+/* color properties  */
+h1{
+    color: yellow; 
+    background-color: red;
+}
+
+p{
+    color: rgb(239, 255, 8);
+    background-color: rgb(0, 0, 0);
+
+}
+button{
+    color: red;
+    background-color: blue;
+}
