@@ -1,0 +1,9 @@
+h1{
+    text-decoration: dotted red underline ;
+    color: orangered;
+}
+p{
+    text-decoration: wavy hsl(0, 100%, 50%) overline;
+    color: black;
+    background-color: gold; 
+}
