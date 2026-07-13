@@ -1,0 +1,13 @@
+/* button:hover{
+    background-color:red;
+} */
+
+
+/* button:active{
+    background-color: black;
+} */
+
+
+button:checked{
+    background-color: aqua;
+}
