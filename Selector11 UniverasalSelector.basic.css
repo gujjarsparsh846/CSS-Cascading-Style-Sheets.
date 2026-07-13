@@ -1,0 +1,11 @@
+/* h1{
+    color: red;
+}
+
+ */
+
+ *{
+    color: blue;
+    background-color: black;
+    /* universal selector  */
+ }
